@@ -1,4 +1,4 @@
-function dropdown(button, dropdownDiv) {
+export function dropdown(button, dropdownDiv) {
   const buttonToDropdown = document.querySelector(button);
   const dropdownButtonsDiv = document.querySelector(dropdownDiv);
 
@@ -18,5 +18,3 @@ function dropdown(button, dropdownDiv) {
     }
   });
 }
-
-module.exports = dropdown;
