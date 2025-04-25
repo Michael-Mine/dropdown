@@ -1,0 +1,23 @@
+{
+  "name": "mrmine-dropdown",
+  "version": "1.0.0",
+  "description": "A Dropdown JavaScript Module for websites",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michael-Mine/dropdown.git"
+  },
+  "keywords": [
+    "Dropdown",
+    "JavaScript"
+  ],
+  "author": "Michael Mine <mm@mrmine.net> (https://mrmine.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Michael-Mine/dropdown/issues"
+  },
+  "homepage": "https://github.com/Michael-Mine/dropdown#readme"
+}
